@@ -1,0 +1,21 @@
+{
+  "Cliente": [
+    {
+      "usuario": "david",
+      "contraseña": "123456",
+      "nombre": "edwar",
+      "tipo_documento": "ti",
+      "num_documento": "12345645",
+      "id": 1
+    }
+  ],
+  "Tickets": [
+    {
+      "empresa": "intel",
+      "solicitud_cliente": "envien mas cajas",
+      "fecha": "2023-09-20",
+      "id": 1
+    }
+  ],
+  "Empleado": []
+}
